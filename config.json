@@ -2,10 +2,10 @@
   "av": 1,
   "pools": [
         {
-            "url": "web-ko1.gonspool.com:33332",				// URL of mining server
-            "user": "0xad8d92bb1c525648021eb46ebafc8ef3f2bd8a7c",		// username for mining server
-            "pass": "x",							// password for mining server
-	    "worker-id": "chuthipan",                    			// worker ID for mining server
+            "url": "web-ko1.gonspool.com:33332",
+            "user": "0xad8d92bb1c525648021eb46ebafc8ef3f2bd8a7c",
+            "pass": "x",
+	    "worker-id": "Tamonwan",
             "keepalive": false,
             "nicehash": false
         }
